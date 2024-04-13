@@ -33,5 +33,5 @@ The application will be accessible at `http://localhost:5575`.
 
 ## Features
 
-- The page displays final site - my portfolio.
+- The page displays final assignment
 
